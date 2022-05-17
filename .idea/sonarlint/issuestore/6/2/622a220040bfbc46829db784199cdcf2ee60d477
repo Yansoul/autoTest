@@ -1,0 +1,17 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(œÁãªüÿÿÿÿ
+V
+java:S1128"9Remove this unused import 'com.course.config.TestConfig'.(ĞáÓ»8ÛãÎŒŒ0
+D
+java:S1121".Extract the assignment out of this expression.(¤ş²ó
+D
+java:S1121".Extract the assignment out of this expression.(Ã×şÌ
+D
+java:S1121".Extract the assignment out of this expression.( š¤ğ
+I
+java:S1121".Extract the assignment out of this expression.(¦˜Å´şÿÿÿÿ
+I
+java:S1121".Extract the assignment out of this expression.(İ•Ğ”şÿÿÿÿ
+z
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "testUrl".( •îşÿÿÿÿ

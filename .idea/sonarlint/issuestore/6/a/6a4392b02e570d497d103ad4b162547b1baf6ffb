@@ -1,0 +1,12 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ØõÕüÿÿÿÿ
+V	java:S125`"<This block of commented-out lines of code should be removed.(ÈÚµùÿÿÿÿ
+m
+java:S3776}"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(Š¶Òœşÿÿÿÿ
+W	java:S125—"<This block of commented-out lines of code should be removed.(‹ÃÚâøÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(‰²¢ùÿÿÿÿ
+p
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(É¸Íõ
+?
+java:S1604Œ"(Make this anonymous inner class a lambda(É¸Íõ

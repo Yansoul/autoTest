@@ -1,0 +1,13 @@
+
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(²ê¿±
+e
+java:S4488 "JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ã®íÙùÿÿÿÿ
+`
+java:S4488&"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(åÌ£
+c
+java:S4488,"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì†ÙÄúÿÿÿÿ
+O
+java:S1128"2Remove this unused import 'com.course.model.User'.(¡Ïü8¾£Õ´‹0
+€
+java:S1488/"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ôî»¨ÿÿÿÿÿ8Úï´‹0

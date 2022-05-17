@@ -2,15 +2,39 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="chapter12" />
+        <module name="chapter13" />
+        <module name="chapter10" />
+        <module name="chapter11" />
+        <module name="chapter6" />
         <module name="chapter5" />
+        <module name="chapter9" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="16">
+      <module name="autoTest" target="1.8" />
+      <module name="chapter10" target="16" />
+      <module name="chapter11" target="16" />
+      <module name="chapter12" target="16" />
+      <module name="chapter13" target="16" />
       <module name="chapter5" target="16" />
+      <module name="chapter6" target="1.8" />
+      <module name="chapter9" target="16" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chapter10" options="-parameters" />
+      <module name="chapter11" options="-parameters" />
+      <module name="chapter12" options="-parameters" />
+      <module name="chapter13" options="-parameters -extdirs &quot;D:\IDEA projects\workspace\AutoMuke\autoTest\chapter13/lib&quot;" />
+      <module name="chapter6" options="-parameters" />
+      <module name="chapter9" options="-parameters" />
+    </option>
   </component>
 </project>

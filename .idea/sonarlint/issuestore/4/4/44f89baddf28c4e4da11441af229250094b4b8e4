@@ -1,0 +1,11 @@
+
+k
+java:S1450"URemove the "cookie" field and declare it as a local variable in the relevant methods.(›§«
+e
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Γθοϋÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(α»¦πϊÿÿÿÿ
+e
+java:S4488%"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"( ΰ¦θÿÿÿÿÿ
+U
+java:S1117+":Rename "cookie" which hides the field declared at line 22.(θύ―ϋÿÿÿÿ

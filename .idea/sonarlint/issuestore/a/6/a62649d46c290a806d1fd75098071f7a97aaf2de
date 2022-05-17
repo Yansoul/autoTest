@@ -1,0 +1,30 @@
+
+GWeb:TableWithoutCaptionCheck" Add a description to this table.(®§¤
+=	Web:S1827")Remove this deprecated "width" attribute.(®§¤
+C	Web:S1827"/Remove this deprecated "cellspacing" attribute.(®§¤
+C	Web:S1827"/Remove this deprecated "cellpadding" attribute.(®§¤
+g Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(–“±£
+g Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶õÛ—
+l Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ü’é—þÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ß¿Øæúÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ß›º¬
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(Ì®ûÅúÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(ñ±Ûè
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(ÁéâÐüÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check "&Remove this deprecated "font" element.(æ‰üŽÿÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check#"&Remove this deprecated "font" element.(”ú§Æ
+@	Web:S1827&"+Remove this deprecated "bgcolor" attribute.(ƒÃÓ±
+QWeb:UnsupportedTagsInHtml5Check("&Remove this deprecated "font" element.(Öµþý
+QWeb:UnsupportedTagsInHtml5Check+"&Remove this deprecated "font" element.(¨‹³å
+VWeb:UnsupportedTagsInHtml5Check."&Remove this deprecated "font" element.(æ‰üŽÿÿÿÿÿ
+PWeb:UnsupportedTagsInHtml5Check1"&Remove this deprecated "font" element.(À¡Þ}
+@	Web:S18274"+Remove this deprecated "bgcolor" attribute.(ƒÃÓ±
+QWeb:UnsupportedTagsInHtml5Check6"&Remove this deprecated "font" element.(”½¾“
+QWeb:UnsupportedTagsInHtml5Check9"&Remove this deprecated "font" element.(¨‹³å
+VWeb:UnsupportedTagsInHtml5Check<"&Remove this deprecated "font" element.(æ‰üŽÿÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check?"&Remove this deprecated "font" element.(°Þª©
+E	Web:S1827B"+Remove this deprecated "bgcolor" attribute.(Ì®ûÅúÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5CheckD"&Remove this deprecated "font" element.(÷šý°
+VWeb:UnsupportedTagsInHtml5CheckG"&Remove this deprecated "font" element.(ÁéâÐüÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5CheckJ"&Remove this deprecated "font" element.(æ‰üŽÿÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5CheckM"&Remove this deprecated "font" element.(°Þª©

@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÖ‰§ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ·œŒùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(‡‰ñºúÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(äåËè
+w
+java:S1488B"aImmediately return this expression instead of assigning it to the temporary variable "jsonArray".(†“«Þ

@@ -1,0 +1,13 @@
+java\com\course\testng\suite\SuiteConfig.class
+java\com\course\testng\suite\LoginTest.class
+java\com\course\testng\parameter\ParameterTest.class
+java\com\course\testng\multiThread\MultiThreadOnAnnotation.class
+java\com\course\testng\DependTest.class
+java\com\course\testng\IgnoreTest.class
+java\com\course\testng\groups\GroupsOnClass3.class
+java\com\course\testng\groups\GroupsOnClass1.class
+java\com\course\testng\groups\GroupsOnMethod.class
+java\com\course\testng\groups\GroupsOnClass2.class
+java\com\course\testng\BasicAnnotation.class
+java\com\course\testng\multiThread\MultiThreadOnXml.class
+java\com\course\testng\suite\PayTest.class

@@ -1,0 +1,33 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ğäñÍüÿÿÿÿ
+b
+java:S1128"LRemove this unused import 'org.apache.http.impl.client.CloseableHttpClient'.(´—Óµ
+o
+java:S1104"TMake loginUrl a static final constant or non-public and provide accessors if needed.(ˆ¨¦øúÿÿÿÿ
+s
+java:S1104"]Make updateUserInfoUrl a static final constant or non-public and provide accessors if needed.( ¥¸
+p
+java:S1104"ZMake getUserInfoUrl a static final constant or non-public and provide accessors if needed.(í×‚ø
+u
+java:S1104"ZMake getUserListUrl a static final constant or non-public and provide accessors if needed.(ÛÀâ…úÿÿÿÿ
+q
+java:S1104"VMake addUserUrl a static final constant or non-public and provide accessors if needed.(Å¨Ø©ÿÿÿÿÿ
+l
+java:S1104"VMake httpClient a static final constant or non-public and provide accessors if needed.(‚ˆôº
+l
+java:S1104"QMake store a static final constant or non-public and provide accessors if needed.(ŞûÚõüÿÿÿÿ
+I
+java:S1444".Make this "public static loginUrl" field final(ˆ¨¦øúÿÿÿÿ
+M
+java:S1444"7Make this "public static updateUserInfoUrl" field final( ¥¸
+J
+java:S1444"4Make this "public static getUserInfoUrl" field final(í×‚ø
+O
+java:S1444"4Make this "public static getUserListUrl" field final(ÛÀâ…úÿÿÿÿ
+K
+java:S1444"0Make this "public static addUserUrl" field final(Å¨Ø©ÿÿÿÿÿ
+F
+java:S1444"0Make this "public static httpClient" field final(‚ˆôº
+F
+java:S1444"+Make this "public static store" field final(ŞûÚõüÿÿÿÿ

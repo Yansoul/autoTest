@@ -1,0 +1,15 @@
+
+m
+java:S4144>"WUpdate this method so that its implementation is not identical to "getList" on line 51.(Ì¢ñ
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¤„öÓıÿÿÿÿ
+c
+java:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(±ô€×úÿÿÿÿ
+^
+java:S44881"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(®‰œ„
+^
+java:S4488<"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(®šªË
+o
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(º¦‘–
+o
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(º¦‘–
